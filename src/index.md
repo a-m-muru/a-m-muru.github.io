@@ -37,7 +37,8 @@ Looking to work in software development.
 
   Learning Rust and Zig.
 
-- *nix system fundamentals
+- *nix operating system fundamentals
+- Version control with Git
 - Database fundamentals
 - Low level programming (managing memory)
 - Graphics programming
@@ -50,8 +51,8 @@ Looking to work in software development.
 
   [Production Scoreboard](https://www.gitlab.cs.ut.ee/lilleras/prod-scoreboard){target="_blank"}
   for a fab in Estonia. My task was largely the front-end UI design and programming, sending API requests to the back-end.
-  The front-end was made using the [Godot game engine](https://godotengine.org){target="_blank"} to be able create a simple
-  self-contained executable, utilising some of many provided tools.
+  The front-end was made using the [Godot game engine](https://godotengine.org){target="_blank"}. It provided the
+  UI framework along with the needed networking tools, and built a simple standalone executable. 
 
 - **UT Computer Graphics course project**
 
@@ -63,8 +64,8 @@ Looking to work in software development.
 
   [Repository](https://github.com/murumart/cgiproject){target="_blank"}
 
-  My tasks were to set up the engine and CI on GitHub. I also implemented the renderers relying
-  on mesh generation and the initial GDScript prototype.
+  My initial tasks were to set up the engine and CI on GitHub. I also implemented the renderers relying
+  on mesh generation and the first GDScript prototype.
 
 - **UT [Computer Graphics Seminar](https://courses.cs.ut.ee/2026/cg-sem/spring/Main/Seminars){target="_blank"} course presentation**
 
